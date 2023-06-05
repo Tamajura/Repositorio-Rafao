@@ -1,0 +1,61 @@
+#cabecalho ul{
+    display: inline-block;
+}
+#cabecalho ul li{
+    display: inline-block;
+    font-size: 20pt;
+    color: rgb(0, 0, 0);
+}
+.logotipo{
+    width: 100px;
+}
+body{
+    background-color: aliceblue;
+}
+#fotinho{
+    /*background: black;*/
+    height: 80vh;
+    margin: 0 auto;
+    text-align: center;
+}
+.seja{
+    width: 50%;
+    height: 70%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+#esq{
+    float: left;
+    /*background-color: blue;*/
+    margin-left: 15%;
+    margin-right: 2.5%;
+    margin-top: 10%;
+    border: dashed black;
+}
+#dir{
+    float: right;
+    /*background-color: red;*/
+    margin-right: 25%;
+    margin-top: 10%;
+    border: dashed black;
+}
+#meio{
+    display: inline-block;
+    /*background-color: green;*/
+    margin-left: 2.5%;
+    margin-top: 10%;
+    border: dashed black;
+}
+#left{
+    float: left;
+    padding-left: 10%;
+}
+#center{
+    display: inline-block;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#right{
+    float: right;
+    padding-right: 10%;
+}
