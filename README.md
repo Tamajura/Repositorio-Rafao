@@ -1,2 +1,2 @@
-# Repositorio-Rafao
-Repositorio é meu portfólio 
+# Portfólio/repositório
+Portfólio versão 1.0
